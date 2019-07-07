@@ -13,7 +13,7 @@ export class AppComponent {
       authDomain: "angularopenclassroom-57faf.firebaseapp.com",
       databaseURL: "https://angularopenclassroom-57faf.firebaseio.com",
       projectId: "angularopenclassroom-57faf",
-      storageBucket: "",
+      storageBucket: "gs://angularopenclassroom-57faf.appspot.com",
       messagingSenderId: "881099044593",
       appId: "1:881099044593:web:7b9d7abbf5c0240c"
     };
